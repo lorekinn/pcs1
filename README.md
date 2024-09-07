@@ -1,20 +1,17 @@
 <<<<<<< HEAD
-# app1
+# Михайлов Денис Артемович
 
-A new Flutter project.
+Практическая работа #1
 
-## Getting Started
+## Выполнение
+1. Установил Flutter, поставил Android Studio, а также плагины к нему (flutter + dart)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Работа приложения с ФИО на месте стандартного текста.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Эмулятор
+![image](https://github.com/user-attachments/assets/3edf102e-959a-4e83-bb22-20b8dd82a288)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pcs1
->>>>>>> fdc77a515eb182327499655cc0e291a9a3e87d04
+Браузер Edge
+![image](https://github.com/user-attachments/assets/45db7a4d-d2f0-4afb-9a38-ed23c188fc29)
+
